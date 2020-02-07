@@ -1,0 +1,2 @@
+# ritankar
+Algorithmic programs
