@@ -1,6 +1,6 @@
 //Class for the Binary Tree
 public class BinarySearchTree {
-	Node node;	// Instance of the Node class with the basic binary tree node structure  
+	Node node;	// Instance of the Node class with the basic binary tree node structure of the tree 
 
 	public BinarySearchTree(){ // Constructor to determine the root as null
 		node = null;	// as the node variable is assigned with null, it will be the root of the binary tree to be formed.
