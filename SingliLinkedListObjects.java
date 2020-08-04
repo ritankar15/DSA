@@ -1,6 +1,6 @@
 
 public class SingliLinkedListObjects {
-	Node head;
+	Node head; // basic structure of the list
 	public SingliLinkedListObjects(Student newEntry){
 		head = new Node();
 		head.std = newEntry;
