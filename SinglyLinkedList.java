@@ -1,5 +1,5 @@
 package datastructures;
-
+//to derive the list functionalities.
 public class SinglyLinkedList {
 	
 //property to represent a node of a singly linked list, formed with value and address fields.
