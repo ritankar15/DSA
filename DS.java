@@ -1,5 +1,5 @@
 package dsandalg;
-
+//main function
 import datastructures.SinglyLinkedList;
 
 public class DS {
